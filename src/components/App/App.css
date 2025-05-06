@@ -4,7 +4,11 @@
   padding: 2rem;
   text-align: center;
 }
-
+.wrapper {
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
